@@ -1,4 +1,5 @@
 import { Activity } from "../types";
+import user2 from '../assets/images/2.jpeg'
 
 export const activities: Activity[] = [
   {
@@ -6,7 +7,7 @@ export const activities: Activity[] = [
     title: "Jet Skiing",
     description: "Experience the thrill of speeding across Kerala's beautiful backwaters on our high-powered jet skis. Perfect for adrenaline seekers!",
     price: 1500,
-    image: "https://images.pexels.com/photos/33046/jet-ski-water-sport-water-bike-water.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    image: user2
   },
   {
     id: "Sailing",
