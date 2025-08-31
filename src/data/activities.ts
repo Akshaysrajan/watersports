@@ -18,7 +18,7 @@ export const activities: Activity[] = [
   },
   {
     id: "banana-boat",
-    title: "Banana Boat Rides",
+    title: "Water Bicycle",
     description: "Hop on our inflatable banana boat with friends and family for a fun-filled ride that's guaranteed to bring laughs and excitement.",
     price: 800,
     image: "https://images.pexels.com/photos/1430672/pexels-photo-1430672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
@@ -42,6 +42,6 @@ export const activities: Activity[] = [
     title: "Power Boating",
     description: "Feel the rush across the water surface pulled by our speedboats. Our instructors ensure a safe and thrilling experience.",
     price: 1800,
-    image: "https://images.unsplash.com/photo-1637988506674-cfd01c24fc18?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    image: "src/assets/images/powerboat.jpeg"
   }
 ];
