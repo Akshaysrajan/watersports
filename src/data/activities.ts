@@ -42,6 +42,6 @@ export const activities: Activity[] = [
     title: "Power Boating",
     description: "Feel the rush across the water surface pulled by our speedboats. Our instructors ensure a safe and thrilling experience.",
     price: 1800,
-    image: "src/assets/images/powerboat.jpeg"
+    image: "./src/assets/images/powerboat.jpeg"
   }
 ];
