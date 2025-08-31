@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 w-full h-full">
         <img
-          src="src/assets/images/LWS WEBSITTE home background.jpg"
+          src="https://www.marconyachting.com/img/cms/ACCUEIL24/sunfish/funboat-B.jpg"
           alt="Kerala Water Sports Adventure"
           className="absolute w-full h-full object-cover"
         />
