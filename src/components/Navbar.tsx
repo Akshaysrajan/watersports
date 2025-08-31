@@ -32,8 +32,8 @@ const Navbar: React.FC = () => {
 
         <div className="container mx-auto px-4 md:px-6 flex justify-between items-center">
   <a href="#" className="flex items-center space-x-2 text-white">
-    <img src={logo} alt="Lakeside Logo" className="h-10 w-auto" />
-    <span className="text-xl font-bold">Lakeside Water Sports</span>
+    <img src={logo} alt="Lakeside Logo" className="h-15 w-auto" />
+    <span className="text-xxl font-bold">LakesideWaterSports</span>
   </a>
 </div>
 
