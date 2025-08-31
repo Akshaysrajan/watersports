@@ -1,6 +1,6 @@
 import { Activity } from "../types";
 import user2 from '../assets/images/2.jpeg'
-
+import pb from '../assets/images/powerboat.jpeg'
 export const activities: Activity[] = [
   {
     id: "jet-ski",
@@ -42,6 +42,6 @@ export const activities: Activity[] = [
     title: "Power Boating",
     description: "Feel the rush across the water surface pulled by our speedboats. Our instructors ensure a safe and thrilling experience.",
     price: 1800,
-    image: "./src/assets/images/powerboat.jpeg"
+    image: pb
   }
 ];
