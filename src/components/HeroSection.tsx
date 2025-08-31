@@ -1,13 +1,14 @@
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
-
+import backgroundImage from '../assets/images/LWS WEBSITTE home background.jpg'
 const HeroSection: React.FC = () => {
   return (
     <section id="home" className="relative h-screen w-full overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 w-full h-full">
         <img
-          src="https://www.marconyachting.com/img/cms/ACCUEIL24/sunfish/funboat-B.jpg"
+          // src="https://www.marconyachting.com/img/cms/ACCUEIL24/sunfish/funboat-B.jpg"
+          src='backgroundImage'
           alt="Kerala Water Sports Adventure"
           className="absolute w-full h-full object-cover"
         />
