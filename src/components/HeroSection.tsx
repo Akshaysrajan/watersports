@@ -8,7 +8,7 @@ const HeroSection: React.FC = () => {
       <div className="absolute inset-0 w-full h-full">
         <img
           // src="https://www.marconyachting.com/img/cms/ACCUEIL24/sunfish/funboat-B.jpg"
-          src='backgroundImage'
+          src= {backgroundImage}
           alt="Kerala Water Sports Adventure"
           className="absolute w-full h-full object-cover"
         />
