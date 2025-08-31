@@ -20,8 +20,7 @@ const HeroSection: React.FC = () => {
           Every <span className="text-yellow-400">Journey</span> is one paddle away
         </h1>
         <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-8 opacity-90 animate-fade-in-up animation-delay-300">
-          Discover Kerala's stunning backwaters and coastal beauty through 
-          exciting water sports and activities
+          Discover the joy of learning in the beauty of Chaliyar
         </p>
         <div className="flex flex-col sm:flex-row gap-4 animate-fade-in-up animation-delay-600">
           <a
