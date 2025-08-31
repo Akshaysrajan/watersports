@@ -17,7 +17,7 @@ const HeroSection: React.FC = () => {
       {/* Content */}
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4">
         <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-4 tracking-tight leading-tight animate-fade-in-up">
-          Experience <span className="text-yellow-400">Thrilling</span> Water Adventures
+          Every <span className="text-yellow-400">Journey</span> is one paddle away
         </h1>
         <p className="text-xl md:text-2xl max-w-3xl mx-auto mb-8 opacity-90 animate-fade-in-up animation-delay-300">
           Discover Kerala's stunning backwaters and coastal beauty through 
