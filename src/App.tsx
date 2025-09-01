@@ -4,7 +4,7 @@ import HeroSection from './components/HeroSection';
 import AboutSection from './components/AboutSection';
 import ActivitiesSection from './components/ActivitiesSection';
 import WhyChooseUsSection from './components/WhyChooseUsSection';
-// import GallerySection from './components/GallerySection';
+import GallerySection from './components/GallerySection';
 import TestimonialsSection from './components/TestimonialsSection';
 import ContactSection from './components/ContactSection';
 import Footer from './components/Footer';
@@ -60,7 +60,7 @@ function App() {
       <AboutSection />
       <ActivitiesSection />
       <WhyChooseUsSection />
-      {/* <GallerySection /> */}
+      <GallerySection />
       <TestimonialsSection />
       <ContactSection />
       <Footer />
