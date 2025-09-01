@@ -7,6 +7,7 @@ import WhyChooseUsSection from './components/WhyChooseUsSection';
 // import GallerySection from './components/GallerySection';
 import TestimonialsSection from './components/TestimonialsSection';
 import ContactSection from './components/ContactSection';
+import CareerSection from './components/CareerSection';
 import Footer from './components/Footer';
 import FloatingButton from './components/FloatingButton';
 
@@ -63,6 +64,7 @@ function App() {
       {/* <GallerySection /> */}
       <TestimonialsSection />
       <ContactSection />
+      <CareerSection />
       <Footer />
       <FloatingButton />
     </div>

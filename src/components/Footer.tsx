@@ -88,6 +88,15 @@ const Footer: React.FC = () => {
               </li>
               <li>
                 <a
+                  href="#careers"
+                  className="text-blue-100 hover:text-yellow-400 transition-colors"
+                >
+                  Careers
+                </a>
+              </li>
+              <li>  
+                
+                <a
                   href="#contact"
                   className="text-blue-100 hover:text-yellow-400 transition-colors"
                 >

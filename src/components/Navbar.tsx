@@ -69,6 +69,14 @@ const Navbar: React.FC = () => {
           >
             Testimonials
           </a>
+
+           <a
+            href="#careers"
+            className="text-white hover:text-yellow-400 transition-colors"
+          >
+            Careers
+          </a>
+          
           <a
             href="#contact"
             className="text-white hover:text-yellow-400 transition-colors"
