@@ -21,11 +21,11 @@ const ActivityCard: React.FC<ActivityCardProps> = ({ activity }) => {
       {/* Content */}
       <div className="absolute bottom-0 left-0 right-0 p-6 text-white transform transition-all duration-300">
         <h3 className="text-2xl font-bold mb-2">{activity.title}</h3>
-        {/* <div className="flex items-center justify-between mb-3">
+        <div className="flex items-center justify-between mb-3">
           <span className="bg-yellow-400 text-blue-900 font-bold px-3 py-1 rounded-full text-sm">
             ₹{activity.price} per person
           </span>
-        </div> */}
+        </div>
         <p className="text-gray-200 mb-4 opacity-0 transform translate-y-4 transition-all duration-300 group-hover:opacity-100 group-hover:translate-y-0">
           {activity.description}
         </p>
