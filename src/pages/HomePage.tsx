@@ -3,7 +3,7 @@ import HeroSection from '../components/HeroSection';
 import AboutSection from '../components/AboutSection';
 import ActivitiesSection from '../components/ActivitiesSection';
 import WhyChooseUsSection from '../components/WhyChooseUsSection';
-import GallerySection from '../components/GallerySection';
+// import GallerySection from '../components/GallerySection';
 import TestimonialsSection from '../components/TestimonialsSection';
 import ContactSection from '../components/ContactSection';
 import FloatingButton from '../components/FloatingButton';
@@ -37,7 +37,7 @@ const HomePage: React.FC = () => {
       <AboutSection />
       <ActivitiesSection />
       <WhyChooseUsSection />
-      <GallerySection />
+      {/* <GallerySection /> */}
       <TestimonialsSection />
       <ContactSection />
       <FloatingButton />
