@@ -1,6 +1,6 @@
 import React from 'react';
 import { ChevronDown } from 'lucide-react';
-import backgroundImage from '../assets/images/LWS WEBSITTE home background.jpg'
+import backgroundImage from '../assets/images/background.png'
 const HeroSection: React.FC = () => {
   return (
     <section id="home" className="relative h-screen w-full overflow-hidden">
