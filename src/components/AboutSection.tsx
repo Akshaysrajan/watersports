@@ -10,7 +10,7 @@ const AboutSection: React.FC = () => {
           <div className="w-20 h-1 bg-yellow-400 mx-auto mb-6"></div>
           <p className="text-lg text-gray-700">
             Welcome to Lakeside Water Sports, where adventure meets the beauty of Kerala's
-            pristine waters. Since 2020, we've been providing unforgettable water
+            pristine waters. we've been providing unforgettable water
             experiences for thrill-seekers and nature lovers alike.
           </p>  
         </div>
