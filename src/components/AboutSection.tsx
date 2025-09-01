@@ -36,7 +36,7 @@ const AboutSection: React.FC = () => {
             </p>
             <p className="text-gray-700 mb-8">
               Our mission is to provide high-quality water sports experiences that are safe,
-              environmentally responsible, and unforgettable. We pride ourselves on our expert
+              environmentally responsible, affordable and unforgettable. We pride ourselves on our expert
               instructors, top-notch equipment, and personalized service that caters to both
               beginners and experienced adventurers.
             </p>
