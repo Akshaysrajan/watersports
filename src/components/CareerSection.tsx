@@ -127,7 +127,7 @@ const CareerSection: React.FC = () => {
                 <p className="text-sm text-gray-700 text-center">
                   <strong>Note:</strong> If the form doesn't load properly, you can also apply by sending your resume to{' '}
                   <a href="mailto:careers@keralawatersports.com" className="text-blue-600 hover:text-blue-800">
-                    careers@keralawatersports.com
+                    lakesidewatersportsltd@gmail.com
                   </a>
                 </p>
               </div>
