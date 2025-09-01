@@ -71,7 +71,7 @@ const Navbar: React.FC = () => {
           </a>
 
            <a
-            href="#careers"
+            href="/careers"
             className="text-white hover:text-yellow-400 transition-colors"
           >
             Careers
