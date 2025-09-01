@@ -110,7 +110,7 @@ const CareerSection: React.FC = () => {
             <div className="p-6">
               <div className="aspect-[4/3] w-full">
                 <iframe
-                  src="https://forms.gle/mHdPrVaFE7vZfqPv7"
+                  src="https://forms.gle/ndkfcG1gYUZhJHMD9"
                   width="100%"
                   height="100%"
                   frameBorder="0"
